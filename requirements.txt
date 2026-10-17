@@ -14,7 +14,7 @@ aiohttp
 aiofiles
 apscheduler
 mutagen
-pymongo[srv]==3.12.3
+pymongo[srv]==4.18.2
 bs4
 motor==2.5.1
 Shazamio
